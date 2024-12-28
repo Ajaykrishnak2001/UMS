@@ -1,0 +1,2 @@
+User Management System (UMS)
+A full-stack application for managing users, built with React, Node.js, Express, and Firebase. The system includes features like user registration, login, profile management, and role-based access control. Firebase is used for secure authentication and real-time database management, while the backend API is powered by Node.js and Express to ensure scalability and efficiency.
